@@ -1,6 +1,6 @@
 # geralexgr
-ex Infrastructure engineer
-DevOps Engineer working with Microsoft Products, Ansible, Terraform
+- ex Infrastructure engineer
+- DevOps Engineer working with Microsoft Products, Ansible, Terraform
 
 **Blog:**
  https://blog.geralexgr.com
