@@ -1,6 +1,6 @@
 # geralexgr
 
-DevOps Engineer working mostly with Microsoft Products. 
+DevOps Engineer working with Microsoft Products, Ansible, Terraform
 
 **Blog:**
 https://blog.geralexgr.com
