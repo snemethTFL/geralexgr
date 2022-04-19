@@ -25,6 +25,7 @@
 [<img align="left" alt="blog" width="35px" height="35px"  src="assets/wordpress-brands.svg" />][blog]
 [<img align="left" alt="site" width="35px" height="35px"  src="assets/chrome-brands.svg" />][site]
 [<img align="left" alt="youtube" width="35px" height="35px"  src="assets/youtube-brands.svg" />][youtube]
+[<img align="left" alt="youtube" width="35px" height="35px"  src="assets/certificate.svg" />][credly]
 
 <br />
 <br />
@@ -43,3 +44,4 @@
 [blog]: https://blog.geralexgr.com
 [youtube]: https://www.youtube.com/channel/UCQts2wVbLoX4G_e0H57Ay0A
 [site]: https://geralexgr.com
+[credly]: https://www.credly.com/users/gerasimos.alexiou/badges
