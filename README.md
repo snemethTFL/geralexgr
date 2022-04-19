@@ -25,7 +25,7 @@
 [<img align="left" alt="blog" width="35px" height="35px"  src="assets/wordpress-brands.svg" />][blog]
 [<img align="left" alt="site" width="35px" height="35px"  src="assets/chrome-brands.svg" />][site]
 [<img align="left" alt="youtube" width="35px" height="35px"  src="assets/youtube-brands.svg" />][youtube]
-[<img align="left" alt="youtube" width="35px" height="35px"  src="assets/certificate.svg" />][credly]
+[<img align="left" alt="youtube" width="35px" height="35px"  src="assets/trophy.svg" />][credly]
 
 <br />
 <br />
