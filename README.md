@@ -11,6 +11,16 @@
 - Blogger with over 50,000 views on my posts  
 - Living in Athens, Greece
 
+
+## Presentations
+[Automate virtual machines deployment with terraform and Azure DevOps](https://global-azure-greece-2022.azurewebsites.net/)
+
+## Featured Articles
+
+[Azure DevOps best practices – jobs and stages (Microsoft Top Stories - DevOps Community)](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-02-18/)  
+[deploy your .NET applications with Azure DevOps (Microsoft Top Stories - DevOps Community)](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-28/)  
+[Authenticate to Azure management API using az cli (Azure Weekly)](https://azureweekly.info/issue-370.html)
+
 ## Contact me
 
 [webmaster [and the domain is] geralexgr [.] com](mailto:webmaster@geralexgr.com)
