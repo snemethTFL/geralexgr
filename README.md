@@ -13,7 +13,7 @@
 
 
 ## Presentations
-[Automate virtual machines deployment with terraform and Azure DevOps](https://global-azure-greece-2022.azurewebsites.net/)
+[Global Azure Greece 2022 - Automate virtual machines deployment with terraform and Azure DevOps](https://global-azure-greece-2022.azurewebsites.net/)
 
 ## Featured Articles
 
