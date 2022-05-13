@@ -17,9 +17,15 @@
 
 ## Featured Articles
 
+[Start Multiple VMs using Parameters with Azure DevOps Pipelines (Microsoft Top Stories - DevOps Community)](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-06-13-2022/)  
+
+[Authenticate to Azure management API using az cli (Azure Weekly)](https://azureweekly.info/issue-370.html)
+
 [Azure DevOps best practices – jobs and stages (Microsoft Top Stories - DevOps Community)](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-02-18/)  
 [deploy your .NET applications with Azure DevOps (Microsoft Top Stories - DevOps Community)](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-28/)  
-[Authenticate to Azure management API using az cli (Azure Weekly)](https://azureweekly.info/issue-370.html)
+
+
+
 
 ## Contact me
 
