@@ -16,6 +16,7 @@
 [Global Azure Greece 2022 - Automate virtual machines deployment with terraform and Azure DevOps](https://global-azure-greece-2022.azurewebsites.net/)
 
 ## Featured Articles
+[Test your backup mechanism – Automated restore for MS SQL using Azure DevOps (Azure Weekly)](https://azureweekly.info/issue-374.html)  
 [Authentication failed. The Authorization header is missing – Invoke-WebRequest Azure ARM (Azure Weekly)](https://azureweekly.info/issue-372.html)  
 [Start Multiple VMs using Parameters with Azure DevOps Pipelines (Microsoft Top Stories - DevOps Community)](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-06-13-2022/)  
 [Authenticate to Azure management API using az cli (Azure Weekly)](https://azureweekly.info/issue-370.html)  
