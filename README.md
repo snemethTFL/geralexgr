@@ -16,11 +16,11 @@
 [Global Azure Greece 2022 - Automate virtual machines deployment with terraform and Azure DevOps](https://global-azure-greece-2022.azurewebsites.net/)
 
 ## Featured Articles
-[Pass parameters from Power automate to Azure DevOps pipeline using rest api](https://azureweekly.info/issue-375.html)  
-[Test your backup mechanism – Automated restore for MS SQL using Azure DevOps (Azure Weekly)](https://azureweekly.info/issue-374.html)  
-[Authentication failed. The Authorization header is missing – Invoke-WebRequest Azure ARM (Azure Weekly)](https://azureweekly.info/issue-372.html)  
+[Pass parameters from Power automate to Azure DevOps pipeline using rest api (Azure Weekly 375)](https://azureweekly.info/issue-375.html)  
+[Test your backup mechanism – Automated restore for MS SQL using Azure DevOps (Azure Weekly 374)](https://azureweekly.info/issue-374.html)  
+[Authentication failed. The Authorization header is missing – Invoke-WebRequest Azure ARM (Azure Weekly 372)](https://azureweekly.info/issue-372.html)  
 [Start Multiple VMs using Parameters with Azure DevOps Pipelines (Microsoft Top Stories - DevOps Community)](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-06-13-2022/)  
-[Authenticate to Azure management API using az cli (Azure Weekly)](https://azureweekly.info/issue-370.html)  
+[Authenticate to Azure management API using az cli (Azure Weekly 370)](https://azureweekly.info/issue-370.html)  
 [Azure DevOps best practices – jobs and stages (Microsoft Top Stories - DevOps Community)](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-02-18/)  
 [deploy your .NET applications with Azure DevOps (Microsoft Top Stories - DevOps Community)](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-28/)  
 
