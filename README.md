@@ -8,7 +8,7 @@
 
 ## About me
 - 29 years old working with Computer Science  
-- Blogger with over 50,000 views on my posts  
+- Blogger with over 60,000 views on my posts  
 - Living in Athens, Greece
 
 
