@@ -11,6 +11,8 @@
 - Blogger with over 60,000 views on my posts  
 - Living in Athens, Greece
 
+## Courses
+[Mastering Azure Devops CI/CD Pipelines with YAML](https://www.udemy.com/course/mastering-azure-devops-cicd-pipelines-with-yaml)
 
 ## Presentations
 [Global Azure Greece 2022 - Automate virtual machines deployment with terraform and Azure DevOps](https://global-azure-greece-2022.azurewebsites.net/)
