@@ -8,13 +8,12 @@
 
 ## About me
 - 29 years old working with Computer Science  
-- Blogger with over 75,000 views on my posts  
+- Blogger with over 80,000 views on my posts  
 - Living in Athens, Greece
 
 ## Courses
-[Mastering Azure Devops CI/CD Pipelines with YAML](https://www.udemy.com/course/mastering-azure-devops-cicd-pipelines-with-yaml)
-[DevOps Interview Questions Preparation Guide - 2022](https://www.udemy.com/course/devops-interview-questions-preparation-guide/)
-
+[Mastering Azure Devops CI/CD Pipelines with YAML](https://www.udemy.com/course/mastering-azure-devops-cicd-pipelines-with-yaml)  
+[DevOps Interview Questions Preparation Guide](https://www.udemy.com/course/devops-interview-questions-preparation-guide/)  
 
 ## Presentations
 [Global Azure Greece 2022 - Automate virtual machines deployment with terraform and Azure DevOps](https://global-azure-greece-2022.azurewebsites.net/)
