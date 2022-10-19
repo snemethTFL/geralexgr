@@ -41,3 +41,19 @@ stages:
       
       - script: echo local $(var1)
         displayName:  printing a local variable 
+
+  - job: job2
+    displayName: job2
+    steps:
+
+      - script: echo ${{parameters.surname}}
+        displayName:  job2 printing parameters input for surname
+      
+      - script: echo My name is $(Name) and my surname is ${{parameters.surname}}
+        displayName:  job2 combining variables  and parameters     
+      
+      - script: echo Password value will be hidden $(Password)
+        displayName:  job2 printing a secret 
+      
+      - script: echo local $(var1)
+        displayName:  job2 printing a local variable 
